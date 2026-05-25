@@ -7,5 +7,5 @@
   - **Image Rendering & Export:** Integrated graphic rendering libraries to export generated QR codes seamlessly as high-resolution images (`.png` or `.jpg`).
   - **Customization & Error Correction:** Configured error correction density parameters to ensure the generated QR codes remain scannable even under physical distortion or resizing.
   - **User-Friendly Interface:** Designed a clean input dashboard allowing real-time generation and instant click-to-download functionality.
-- 🔗 **[View Repository](Link_Here)** | 📸 **[View Screenshot](./images/qrcode_generator.png)**
+  
 -
